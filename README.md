@@ -45,10 +45,10 @@
 ### 📫 Hubungi Saya
 
 <p align="left">
-  <a href="https://linkedin.com/in/username_kamu" target="blank">
+  <a href="https://id.linkedin.com/in/audy-al-vasyah-8b6135206" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:email_kamu@gmail.com">
+  <a href="mailto:audialfasha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

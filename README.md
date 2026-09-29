@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Text Animasi -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Halo%2C+saya+Audy+Alvasyha!+👋;Web+%2F+Software+Developer;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Halo%2C+saya+Audy+Al+Vasyah!+👋;Web+%2F+Software+Developer;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing SVG" />
 </div>
 
 <br>
@@ -10,7 +10,7 @@
 - 🔭 Saat ini sedang mengerjakan project **v2app** dan beberapa project web lainnya.
 - 🌱 Sedang aktif memperdalam **Modern Web Development**.
 - 💬 Tanya saya seputar **Web Apps, Frontend, atau Backend**.
-- ⚡ Slogan: *Menjadi diri sendiri* 😉[cite: 1]
+- ⚡ Slogan: *Menjadi diri sendiri* 😉
 
 ---
 
